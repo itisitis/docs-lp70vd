@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-47i0qo.ratutogel98uah.site/sitemap.xml
